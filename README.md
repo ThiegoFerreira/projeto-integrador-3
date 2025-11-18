@@ -78,3 +78,16 @@ O sistema busca trazer organização, clareza e um toque de poesia ao mundo admi
 
 ## 🌐 Visão Geral do Sistema  
 ![Imagem Geral do Sistema](imagens/geral1.png)
+
+# 🎨 Protótipo no Figma
+
+Você pode visualizar o protótipo completo diretamente no Figma através do link abaixo:
+
+👉 [Acessar protótipo no Figma](figma.com/make/w9Bw29DyJa7oIkDysP6W3g/Sistema-de-Cadastro-Acadêmico?t=wCXSNIYxIKTGWRJb&fullscreen=1)
+
+# 🗃️ Arquivos SQL do Projeto
+
+Os scripts utilizados para criação da estrutura do banco e para consultas estão disponíveis abaixo:
+
+- 📄 [create_tables.sql](imagens/create_tables.sql) — Estrutura completa do banco Universidade  
+- 📄 [queries.sql](imagens/queries.sql) — Consultas úteis, inserts e relatórios SQL
