@@ -64,9 +64,17 @@ O sistema busca trazer organização, clareza e um toque de poesia ao mundo admi
 
 ---
 
-# 🚀 Como Executar o Projeto
+# 📘 Diagramas do Sistema
 
-1. Clone o repositório:
+## 📌 Diagrama de Caso de Uso  
+![Diagrama de Caso de Uso](imagens/diagrama-caso-de-uso.png)
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+---
+
+## 📌 Diagrama de Classes  
+![Diagrama de Classe](imagens/diagrama-de-classe.png)
+
+---
+
+## 🌐 Visão Geral do Sistema  
+![Imagem Geral do Sistema](imagens/geral1.png)
